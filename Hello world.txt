@@ -4,3 +4,5 @@ print ("HHello world");
 print ("HHello world");
 print ("HHello world");
 print ("Hello");
+print ("Hello my friend");
+print ("Glad to see you");
