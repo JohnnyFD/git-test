@@ -1,7 +1,6 @@
-print ("HHello world")
-print ("HHello world")
-print ("HHello world")
-print ("HHello world")
-print ("HHello world")
-print ("HHello world")
-print ("Hello")
+print ("HHello world");
+print ("HHello world");
+print ("HHello world");
+print ("HHello world");
+print ("HHello world");
+print ("Hello");
